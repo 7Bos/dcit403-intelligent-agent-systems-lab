@@ -1,1 +1,8 @@
+spade
+asyncio
+networkx
+matplotlib
+pandas
+numpy
+requests
 
