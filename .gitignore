@@ -1,1 +1,11 @@
+*.txt
+*.pyc
+__pycache__/
+.env
+.DS_Store
+venv/
+.venv/
 
+# IDEs
+.vscode/
+.idea/

@@ -32,3 +32,5 @@ Each lab builds incrementally toward the final project:
 4. Run:
    ```bash
    python basic_agent.py
+
+## All submissions must be original. Screenshot and submit on sakai for review and grading.
